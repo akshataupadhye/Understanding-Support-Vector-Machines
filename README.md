@@ -13,6 +13,8 @@ on the margin are called as the support vectors. The SVM maximizes its boundarie
 
 ### Plots for Linear SVM
 
+![Linear SVM](https://raw.githubusercontent.com/akshataupadhye/SVM/main/linear_svm.png)
+
 ### Learning a Non Linear SVM
 SVM learns a boundary by defining a margin around it. The margins are defined using the subset of data points known as support vectors. The SVM is a maximal margin classifier which extends its boundary to overcome the problem of overfitting. But to give a limit to the margin extension the soft margin approach is used in which a penalty parameter C is introduced. In this dataset for the nonlinear SVM after tuning the penalty parameter C =2000 the best results were observed.
 
