@@ -20,6 +20,8 @@ SVM learns a boundary by defining a margin around it. The margins are defined us
 
 ### Plots for Non Linear SVM
 
+![Linear SVM](https://raw.githubusercontent.com/akshataupadhye/SVM/main/nl_svm.png)
+
 ## Results and Analysis
 
 ### Comparison of the Decision Boundaries of Decision Tree ,Ideal Decision tree, Linear SVM and Non Linear SVM:
