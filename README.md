@@ -12,7 +12,7 @@ In this project I am using a synthetic dataset . It has 450 data points on a 2-D
 ### Learning a Linear SVM
 
 The linear SVM learns an oblique linear boundary along with a margin surrounding it. The points
-on the margin are called as the support vectors. The SVM maximizes its boundaries on both sides to avoid overfitting. But there must be a limit to define the extent of the boundary. So, we use the Soft Margin Approach by assigning a penalty parameter C to the error term. In this dataset after increasing the value of the penalty parameter to C= 2000 we get the best results for accuracy , precision and recall.
+on the margin are called as the support vectors. The SVM maximizes its boundaries on both sides to avoid overfitting. But there must be a limit to define the extent of the boundary. So, we use the Soft Margin Approach by assigning a penalty parameter C to the error term. In this dataset after increasing the value of the penalty parameter, we get the best results for accuracy , precision and recall.
 
 ### Plots for Linear SVM
 
