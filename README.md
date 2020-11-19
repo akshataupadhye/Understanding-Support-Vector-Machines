@@ -3,7 +3,8 @@
 ### About the Dataset
 In this project I am using a synthetic dataset . It has 450 data points on a 2-D plane. The first two columns contain the X and Y attribute values and the third column contains the class label. 
 
- What is SVM ?
+### What is SVM ?
+
 **Support Vector Machine** is a Machine Learning algorithm used to find a hyperplane in the N-dimensional hyperspace to classify the data points.
 
 ### Learning a Linear SVM
