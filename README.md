@@ -31,5 +31,5 @@ SVM learns a boundary by defining a margin around it. The margins are defined us
 
 The Linear SVM has a low accuracy value of 0.88 when compared with decision tree and the nonlinear SVM. The SVM follows a maximal margin approach. Even after tuning the penalty parameter for error which is C the metrics given by the linear SVM is not very accurate. Even the precision and recall values are comparatively lower. Looking at the boundaries on the plot it can be clearly seen that even after maximizing the margin of the SVM there are data points being misclassified.
 
-The Non-Linear SVM with a ‘rbf’ Kernel has the best performance for the data set. Looking at the
-performance metrics we can see that accuracy, precision and recall values are all 1. It is giving the exact classification for all data points. Looking at the plots we can see that the boundaries drawn to separate the data sets is very clear
+The Non-Linear SVM with a ‘rbf’ Kernel has the best performance for this data set. Looking at the
+performance metrics we can see that accuracy, precision and recall values are all 1. It is giving the exact classification for all data points. Looking at the plots we can see that the boundaries drawn to separate the data points are very clear.
